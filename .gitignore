@@ -2,3 +2,5 @@
 token_*
 *.swp
 *.bak
+geckodriver.log
+tests
