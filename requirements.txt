@@ -1,0 +1,9 @@
+# get_podcasts2 Requirements
+
+have a database
+have configuration files
+have a web interface
+download files
+pull metadata to be used from xml of rss
+allow editing of settings via web interface
+allow addition of new settings via web interface
